@@ -9,6 +9,7 @@ My name is Alvaro Resplandor and i'm a web developer 👨‍💻. I'm from Venez
 
 ## Latest 👀
 
+[![Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=alvaro-jrr&repo=expense-tracker)](https://github.com/alvaro-jrr/expense-tracker)
 [![Markdown Editor](https://github-readme-stats.vercel.app/api/pin/?username=alvaro-jrr&repo=markdown-editor)](https://github.com/alvaro-jrr/markdown-editor)
 [![Todo App](https://github-readme-stats.vercel.app/api/pin/?username=alvaro-jrr&repo=todo-app)](https://github.com/alvaro-jrr/todo-app)
 [![Giphy App](https://github-readme-stats.vercel.app/api/pin/?username=alvaro-jrr&repo=giphy-react-app)](https://github.com/alvaro-jrr/giphy-react-app)
