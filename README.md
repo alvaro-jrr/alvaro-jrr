@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Alvaro Resplandor and i'm a web developer 👨‍💻. I'm from Venezuela and currently i'm studying Informatics Engineering 📚!
+My name is Alvaro Resplandor and i'm a web developer 👨‍💻, currently studying Informatics Engineering 📚!
 
 ## Stats 📈
 
