@@ -16,4 +16,4 @@ I'm a Software Developer and Informatics Engineering student 📚. Passionate on
 
 - [Twitter](https://twitter.com/alvaro_rrj)
 - [Instagram](https://www.instagram.com/alvaro.jrr/)
-- [LinkedIn](www.linkedin.com/in/alvaro-resplandor-rodriguez-6a7a4824a)
+- [LinkedIn](https://www.linkedin.com/in/alvaro-resplandor-rodriguez-6a7a4824a/)
